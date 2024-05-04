@@ -4,7 +4,9 @@
 2. Student
 3. Professor
 4. Main
-   کلاس های professor و student از کلاس human ارث بری میکنند.
+
+
+  - کلاس های professor و student از کلاس human ارث بری میکنند.
 
 
 سوال 1:  در کلاس Human متود ()staticPrint را طوری تغییر دهید که خروجی آن در کلاس هایی که کلاس Human را پیاده سازی می کنند قابل تغییر نباشد.
