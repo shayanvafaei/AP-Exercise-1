@@ -9,12 +9,7 @@ import java.util.List;
 //  8. Now write this:
 //  Human human = new Professor();
 //  What is the output of human.sayMyName() ?
-//  What can we understand from question 7 and 8?
-//  9. In question 7, we could have declared the human variable like this:
-//  Student human = new Student();
-//  If you call the sayMyName() method on human variable, you can see that the output is identical to question number 7, do you think there is a use case where we might need to declare the human variable
-//  like question number 7?
-//  (HINT : try to make a list of humans that has both Students and Professors in it!)
+//  9. What can we understand from question 7 and 8?
  
 public class Main {
     public static void main(String[] args) {
