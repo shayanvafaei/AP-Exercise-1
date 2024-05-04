@@ -1,8 +1,5 @@
 package exercise1;
 
-/**
- * 1.change the staticPrint() method so that its output cannot be changed in all the classes that extend or implement Human
- */
 public abstract class Human {
     private String fullName;
 
